@@ -43,13 +43,13 @@ The whole learning pipline of our model:
 ## Training
 Run `run.py`:
 
-For HAT on Flickr30K:
+For ACKE on Flickr30K:
 
 ```bash
 python run.py with data_root=`$DATA_PATH`
 ```
 
-For HAT on MSCOCO:
+For ACKE on MSCOCO:
 
 ```bash
 python run.py with coco_config data_root=`$DATA_PATH`
